@@ -1,0 +1,2 @@
+# Deep-Learning-Pediatric-Pneumonia-Detection-Classification
+Pediatric Pneumonia Detection using Transfer Learning with DenseNet-161. This CNN-based classifier is trained on Kaggle chest X-ray data to distinguish between normal and pneumonia cases. Designed for early pediatric diagnosis, the model leverages deep feature reuse for high-efficiency medical image analysis and improved clinical outcomes.
